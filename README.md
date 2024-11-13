@@ -1,2 +1,2 @@
 # BNSMods
-Blabla
+Mods for BNS
